@@ -1,6 +1,6 @@
 # NEXGEN Shaders
 
-To Download this, [Click here](https://github.com/nexgenmods/NEXGEN_Shaders/archive/main.zip)<br><br>
+To Download this, [Click here](https://github.com/srikar2077/NEXGEN_Shaders/archive/main.zip)<br><br>
 NEXGEN Shaders comprises NEXGEN's contribution of shaders for [ReShade](https://github.com/crosire/reshade) <br>
 Check out more mode by NEXGEN https://nexgenmods.com
 
@@ -25,11 +25,11 @@ Check out more mode by NEXGEN https://nexgenmods.com
 
 ## Installation
 1. Install ReShade. [Click here](https://github.com/crosire/reshade)
-2. Download this repository [Click here](https://github.com/nexgenmods/NEXGEN_Shaders/archive/main.zip)
+2. Download this repository [Click here](https://github.com/srikar2077/NEXGEN_Shaders/archive/main.zip)
 3. Extract the downloaded archive .zip file
 4. Copy "reshade-shaders" folder to your main game folder
 5. Start your game, open the ReShade in-game menu using "Home" Key
-6. (Only if required) Add the path to the extracted [Shaders](https://github.com/nexgenmods/NEXGEN_Shaders/tree/main/reshade-shaders/Shaders/NEXGEN_Shaders) folder to ReShade menu -> Settings tab -> Effect Search Paths<br>
+6. (Only if required) Add the path to the extracted [Shaders](https://github.com/srikar2077/NEXGEN_Shaders/tree/main/reshade-shaders/Shaders/NEXGEN_Shaders) folder to ReShade menu -> Settings tab -> Effect Search Paths<br>
 example: D:\YourGame\reshade-shaders\Shaders\NEXGEN_Shaders\
 7. Switch back to the "Home" tab in ReShade menu and check (tick) both the "Compare - Move to Top" and "Compare - Move to Bottom" Shaders
 8. Move your effect shaders to in-between the "Compare - Move to Top" and "Compare - Move to Bottom" Shaders
@@ -43,4 +43,4 @@ For example here's the order of shaders,<br>
 Make sure to join the NEXGEN discord if you want to share your ideas or need help :
  - https://discord.gg/7svkjgXZM9
 
-If you want to report a bug, you can open an [issue on GitHub](https://github.com/nexgenmods/NEXGEN_Shaders/issues) or report it in the NEXGEN discord.
+If you want to report a bug, you can open an [issue on GitHub](https://github.com/srikar2077/NEXGEN_Shaders/issues) or report it in the NEXGEN discord.
